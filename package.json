@@ -1,0 +1,21 @@
+{
+    "name": "hamidreza-arc-blueberry",
+    "displayName": "Hamidreza Arc-blueberry",
+    "description": "beautiful theme based on bearded-theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hamidreza Arc-blueberry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hamidreza Arc-blueberry-color-theme.json"
+            }
+        ]
+    }
+}
