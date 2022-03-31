@@ -11,3 +11,9 @@ this theme is based on [Beared](https://github.com/BeardedBear/bearded-theme) vs
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+### installation
+Clone repo then paste it in vscode extensions directory
+* Windows %USERPROFILE%\.vscode\extensions
+* macOS ~/.vscode/extensions
+* Linux ~/.vscode/extensions
