@@ -14,6 +14,6 @@ this theme is based on [Beared](https://github.com/BeardedBear/bearded-theme) vs
 
 ### installation
 Clone repo then paste it in vscode extensions directory
-* Windows %USERPROFILE%\.vscode\extensions
+* Windows %USERPROFILE%/.vscode/extensions
 * macOS ~/.vscode/extensions
 * Linux ~/.vscode/extensions
